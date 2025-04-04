@@ -25,6 +25,7 @@ Control your YouTube Video **hands-free** using simple hand gestures! This proje
 You can modify the key bindings in the `media_play_pause.py` file to match shortcuts.  
 
 ## 🖥️ Demo  
+[Demo Link](https://www.linkedin.com/posts/arun-sadalgekar_gesturecontrol-python-opencv-activity-7313633573629009920-F1dB)
  
 
 
